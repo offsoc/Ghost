@@ -69,7 +69,7 @@
     "broccoli-terser-sourcemap": "4.1.1",
     "chai": "4.3.8",
     "chai-dom": "1.11.0",
-    "codemirror": "5.48.2",
+    "codemirror": "6.0.1",
     "cssnano": "4.1.10",
     "element-resize-detector": "1.2.4",
     "ember-ajax": "5.1.2",
@@ -134,7 +134,7 @@
     "loader.js": "4.7.0",
     "microdiff": "1.4.0",
     "miragejs": "0.1.48",
-    "moment-timezone": "0.5.45",
+    "moment-timezone": "0.5.47",
     "normalize.css": "3.0.3",
     "papaparse": "5.3.2",
     "postcss-color-mod-function": "3.0.3",
@@ -146,13 +146,13 @@
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "reframe.js": "4.0.2",
-    "semver": "7.6.3",
+    "semver": "7.7.0",
     "sentry-testkit": "5.0.9",
     "sinon-chai": "4.0.0",
     "testem": "3.15.1",
     "tracked-built-ins": "3.3.0",
     "util": "0.12.5",
-    "validator": "7.2.0",
+    "validator": "13.7.0",
     "walk-sync": "3.0.0"
   },
   "ember-addon": {
@@ -166,7 +166,7 @@
     "ember-basic-dropdown": "6.0.2",
     "ember-in-viewport": "4.1.0",
     "moment": "2.24.0",
-    "moment-timezone": "0.5.45"
+    "moment-timezone": "0.5.47"
   },
   "ember": {
     "edition": "octane"
