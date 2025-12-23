@@ -44,7 +44,7 @@
         "@vitejs/plugin-react": "4.7.0",
         "dotenv": "16.6.1",
         "msw": "2.11.5",
-        "vite": "5.4.20",
+        "vite": "5.4.21",
         "vite-plugin-svgr": "4.5.0",
         "vitest": "1.6.1"
     },
@@ -53,7 +53,7 @@
         "@tryghost/admin-x-framework": "0.0.0",
         "@tryghost/shade": "0.0.0",
         "i18n-iso-countries": "7.14.0",
-        "moment": "2.24.0",
+        "moment": "2.29.4",
         "moment-timezone": "0.5.45",
         "react": "18.3.1",
         "react-dom": "18.3.1",
